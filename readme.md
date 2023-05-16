@@ -3,7 +3,7 @@
 ```
 mkdir newDir
 cd newDir/
-echo 'readme file' > readme.md; ll
+echo 'readme file' > readme.md
 git init
 git add .
 git status
@@ -15,7 +15,7 @@ I'm sure someone might tell me this is perhaps not best practice but a condensed
 ```
 mkdir newDir
 cd newDir/
-echo 'readme file' > readme.md; ll
+echo 'readme file' > readme.md 
 git init; git add .; git status; git commit -m 'initial commit';
 gh repo create
 ```

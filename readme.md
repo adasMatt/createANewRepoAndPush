@@ -1,4 +1,17 @@
 ## Set of commands to setup git repo and create page on GitHub quickly
+
+```
+mkdir newDir
+cd newDir/
+echo 'readme file' > readme.md; ll
+git init
+git add .
+git status
+git commit -m 'initial commit'
+gh repo create
+```
+
+I'm sure someone might tell me this is perhaps not best practice but a condensed version:
 ```
 mkdir newDir
 cd newDir/

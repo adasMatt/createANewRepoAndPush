@@ -1,4 +1,4 @@
-## Set of commands to setup git repo and create page on GitHub quickly
+## Set of commands to setup git repo and create page on GitHub quickly, all from a local Linux terminal window
 
 ```
 mkdir newDir

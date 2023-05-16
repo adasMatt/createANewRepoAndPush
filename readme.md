@@ -12,4 +12,4 @@ gh repo create
 ![inlcuding images in a readme.md](https://github.com/<your-name-on-github>/<your-repo>/blob/master/images/readmeMarkdownWithImages.png "Inlcuding images in a readme.md")
 ```
 
-![inlcuding images in a readme.md](https://github.com/adasMatt/newDir/images/terminalScreenshot.jpg "Inlcuding images in a readme.md")
+![inlcuding images in a readme.md](https://github.com/adasMatt/newDir/blob/master/images/terminalScreenshot.jpg "Inlcuding images in a readme.md")

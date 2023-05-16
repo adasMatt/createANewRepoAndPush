@@ -20,7 +20,8 @@ git init; git add .; git status; git commit -m 'initial commit';
 gh repo create
 ```
 
-## As a bonus, here's the code to include an image in a .md
+## As a bonus
+Here's the code to include an image in a .md
 ```
 ![inlcuding images in a readme.md](https://github.com/<your-name-on-github>/<your-repo>/blob/master/images/readmeMarkdownWithImages.png "Inlcuding images in a readme.md")
 ```

@@ -1,5 +1,4 @@
 name: Mattyyy Python application
-
 on:
   push:
     branches: [ master ]

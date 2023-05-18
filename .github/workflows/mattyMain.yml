@@ -13,7 +13,7 @@ jobs:
     - name: Set up Python
       uses: actions/setup-python@v2
       with:
-        python-version: '3.9'
+        python-version: '3.11'
     - name: Install dependencies
       # change these between requirements.txt/require2.txt & mattyPython.py/githubAPIResponse.py (respectively) if you want to run the other thing
       run: pip install -r requirements.txt

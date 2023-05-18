@@ -18,5 +18,5 @@ jobs:
       run: pip install -r requirements.txt
     - name: Run Python script
       run: |
-        python main.py
+        python mattyPython.py
         echo 'niiiiice script bby ;)'

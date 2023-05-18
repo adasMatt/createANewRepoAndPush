@@ -16,8 +16,8 @@ jobs:
         python-version: '3.9'
     - name: Install dependencies
       # change these between requirements.txt/require2.txt & mattyPython.py/githubAPIResponse.py (respectively) if you want to run the other thing
-      run: pip install -r requirements.txt
+      run: pip install -r require2.txt
     - name: Run Python script
       run: |
-        python mattyPython.py
+        python githubAPIResponse.py
         echo 'niiiiice script bby ;)'
